@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "GE Pedido de Venda",
+    "slug": "GE-Pedido-de-Venda",
+    "version": "3.0.3",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#174c4f"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#174c4f"
+      },
+      "package": "com.lenilonlimapantoja.GEPedidodeVenda"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "54248525-bbf7-464c-b5b3-93bbd0d93e3b"
+      }
+    }
+  }
+}
